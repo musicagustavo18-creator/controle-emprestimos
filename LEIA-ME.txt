@@ -1,0 +1,15 @@
+MEU CONTROLE DE EMPRÉSTIMOS
+
+Aplicativo web instalável (PWA), gratuito e sem conta/API. Os dados ficam no armazenamento local do navegador deste aparelho.
+
+COMO PUBLICAR NO GITHUB PAGES
+1. Crie um repositório público chamado controle-emprestimos.
+2. Envie os três arquivos: index.html, manifest.webmanifest e sw.js para a raiz (não envie a pasta como subpasta).
+3. Em Settings > Pages, selecione Deploy from a branch, branch main e pasta /(root), salve.
+4. Abra https://SEU-USUARIO.github.io/controle-emprestimos/ no Chrome.
+5. No Chrome, menu ⋮ > Adicionar à tela inicial / Instalar app.
+
+IMPORTANTE
+- Não limpe os dados do Chrome nem desinstale o app sem fazer backup; os dados ficam no aparelho.
+- A primeira versão usa cadastro e registro manual. O campo de pagamentos registra recebimentos, mas ainda não calcula saldo individual por contrato.
+- Registros com selo “Conferir” contêm informações ambíguas da anotação original.
